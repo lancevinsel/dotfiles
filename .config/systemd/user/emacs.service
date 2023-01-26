@@ -1,0 +1,15 @@
+[Unit]
+Description=Emacs text editor
+Documentation=info:emacs man:emacs(1) https://gnu.org/software/emacs/
+
+[Service]
+Type=forking
+ExecStart=/home/lance/packages/emacs/src/emacs --fg-daemon
+ExecStop=/home/lance/packages/emacs/lib-src/emacsclient --eval "(kill-emacs)"
+ExecStop=sleep 1
+Environment=SSH_AUTH_SOCK=%t/keyring/ssh
+Restart=on-failure
+SuccessExitStatus=15
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,64 @@
+[Game]
+Gravity=false
+Solvable=true
+Sounds=false
+
+[General]
+Background_file=/usr/share/kmahjongglib/backgrounds/default.desktop
+Tileset_file=/usr/share/kmahjongglib/tilesets/default.desktop
+
+[KHighscore_18x8]
+0_LastPlayer=Lance
+10_Name=Lance
+10_Score=928
+10_Time=00:04:50
+10_gravity=Yes
+1_Name=Lance
+1_Score=1068
+1_Time=00:04:12
+1_gravity=Yes
+2_Name=Lance
+2_Score=1035
+2_Time=00:04:20
+2_gravity=Yes
+3_Name=Lance
+3_Score=1031
+3_Time=00:04:21
+3_gravity=Yes
+4_Name=Lance
+4_Score=1012
+4_Time=00:04:26
+4_gravity=Yes
+5_Name=Lance
+5_Score=1005
+5_Time=00:04:28
+5_gravity=Yes
+6_Name=Lance
+6_Score=1001
+6_Time=00:04:29
+6_gravity=Yes
+7_Name=Lance
+7_Score=997
+7_Time=00:04:30
+7_gravity=Yes
+8_Name=Lance
+8_Score=979
+8_Time=00:04:35
+8_gravity=Yes
+9_Name=Lance
+9_Score=938
+9_Time=00:04:47
+9_gravity=Yes
+
+[MainWindow]
+LVDS=LVDS
+LVDS Height 1366x768 LVDS=710
+LVDS Width 1366x768 LVDS=1366
+LVDS Window-Maximized 1366x768=true
+LVDS Window-Maximized 1366x768 LVDS=true
+LVDS XPosition 1366x768=4
+LVDS XPosition 1366x768 LVDS=0
+LVDS YPosition 1366x768=28
+LVDS YPosition 1366x768 LVDS=24
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJzAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

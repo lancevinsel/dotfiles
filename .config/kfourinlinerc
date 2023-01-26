@@ -1,0 +1,21 @@
+[MainWindow]
+LVDS=LVDS
+LVDS XPosition 1366x768 LVDS=4
+LVDS YPosition 1366x768 LVDS=28
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAGtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[ProgramData]
+ThemeIndexNo=0
+
+[RedPlayer]
+brk=1
+lost=0
+remis=0
+win=1
+
+[YellowPlayer]
+brk=1
+lost=1
+remis=0
+win=0

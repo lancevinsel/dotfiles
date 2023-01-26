@@ -1,0 +1,11 @@
+[MainWindow]
+LVDS=LVDS
+LVDS Height 1366x768 LVDS=768
+LVDS Width 1366x768 LVDS=1366
+LVDS XPosition 1366x768 LVDS=0
+LVDS YPosition 1366x768 LVDS=0
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled

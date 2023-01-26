@@ -1,0 +1,44 @@
+[KHighscore_Easy]
+0_LastPlayer=Lance
+10_Level=-
+10_Name=-
+10_Score=-
+1_Level=1
+1_Name=Lance
+1_Score=100
+2_Level=1
+2_Name=Lance
+2_Score=70
+3_Level=1
+3_Name=Lance
+3_Score=30
+4_Level=-
+4_Name=-
+4_Score=-
+5_Level=-
+5_Name=-
+5_Score=-
+6_Level=-
+6_Name=-
+6_Score=-
+7_Level=-
+7_Name=-
+7_Score=-
+8_Level=-
+8_Name=-
+8_Score=-
+9_Level=-
+9_Name=-
+9_Score=-
+
+[KgDifficulty]
+Level=Easy
+
+[MainWindow]
+LVDS=LVDS
+LVDS Height 1366x768 LVDS=451
+LVDS Width 1366x768 LVDS=720
+LVDS XPosition 1366x768 LVDS=337
+LVDS YPosition 1366x768 LVDS=121
+State=AAAA/wAAAAD9AAAAAAAAAtAAAAFoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
