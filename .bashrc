@@ -91,7 +91,7 @@ PATH=$HOME/packages/emacs/src:$PATH
 PATH=$HOME/scripts:$PATH
 
 ## vicd exit vifm to current viewed directory
-vicd()
+vif()
 {
     local dst="$(command vifm --choose-dir - "$@")"
     if [ -z "$dst" ]; then

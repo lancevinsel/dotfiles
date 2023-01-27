@@ -1,5 +1,5 @@
 favorites=firefox.desktop,eos-quickstart.desktop,xfce4-terminal.desktop,org.xfce.Parole.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,eos-log-tool.desktop,welcome.desktop
-recent=org.kde.kshisen.desktop,welcome.desktop,firewall-config.desktop,cups.desktop,abiword.desktop,org.gnome.TextEditor.desktop
+recent=abiword.desktop,org.kde.kshisen.desktop,welcome.desktop,firewall-config.desktop,cups.desktop,org.gnome.TextEditor.desktop
 button-title=EndeavourOS\ \ 
 button-icon=/usr/share/endeavouros/EndeavourOS-icon.png
 button-single-row=false
